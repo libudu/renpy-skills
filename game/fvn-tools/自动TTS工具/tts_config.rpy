@@ -1,6 +1,10 @@
 
 init -1 python:
     ########################### 警告：避免打包等场景导致 token 泄露 ##############
+    if not getattr(store, 'aliyun_token_secret', ''):
+        # 在这里填写 aliyun token
+        aliyun_token_secret = ''
+
     tts_config = {
         # 使用的 token，用于请求
         'aliyun_token': aliyun_token_secret,

@@ -26,15 +26,18 @@ init python:
                 "response_format": "wav"
             }
         }
+
+        response = None
         
         try:
             response = requests.post(url, headers=headers, json=payload)
             response.raise_for_status()
             return response.json()
         except requests.exceptions.RequestException as e:
-            print(f"Error during TTS request: {e}")
-            if response.content:
-                print(f"Response content: {response.text}")
+            msg = f"Error during TTS request: {e}"
+            if response and response.content:
+                msg += f"\nResponse content: {response.text}"
+            raise Exception(msg)
             return None
 
     def download_and_save_voice(text, save_dir, file_id, instructions=''):
