@@ -1,0 +1,15 @@
+*.rpyc
+*.rpymc
+*.rpa
+*.bak
+*.tmp
+*.psd
+app.psd
+/game/cache/*
+/game/saves/*
+log.txt
+traceback.txt
+errors.txt
+.android.json
+tts_log.txt
+game/fvn-tools/自动TTS工具/tts_secret.rpy
