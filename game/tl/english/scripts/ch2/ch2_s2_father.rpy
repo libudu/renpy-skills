@@ -1,0 +1,248 @@
+﻿# TODO: Translation updated at 2026-03-10 00:54
+
+# game/scripts/ch2/ch2_s2_father.rpy:16
+translate english ch2_s2_father_1b225c2b:
+
+    # "在咆哮了几嗓子之后，萧炎的情绪也是缓缓的平息了下来，脸庞再次回复了平日的落寞。"
+    ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:18
+translate english ch2_s2_father_2570883c:
+
+    # "苦涩的摇了摇头，萧炎心中其实有些委屈……"
+    ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:20
+translate english ch2_s2_father_ef6e9be9:
+
+    # "黯然的叹了口气，萧炎抬起手掌，手指上有一颗黑色戒指……"
+    ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:25
+translate english ch2_s2_father_082a96df:
+
+    # "这是母亲临死前送给他的唯一礼物，从四岁开始，他已经佩戴了十年，母亲的遗物，让得萧炎对它也是有着一份眷恋。"
+    ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:27
+translate english ch2_s2_father_e3a193a5:
+
+    # xy "这几年，还真是辜负母亲的期望了……"
+    xy ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:29
+translate english ch2_s2_father_dbe6aa0c:
+
+    # "深深的吐了一口气，萧炎忽然回转过头，对着漆黑的树林温暖的笑道："
+    ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:31
+translate english ch2_s2_father_dd427f9e:
+
+    # xy "父亲，您来了？"
+    xy ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:33
+translate english ch2_s2_father_685da46c:
+
+    # "虽然斗之气只有三段，不过萧炎的灵魂感知，却是比一名五星斗者都要敏锐许多，在先前说起母亲的时候，他便察觉到了树林中的一丝动静。"
+    ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:35
+translate english ch2_s2_father_ef872d29:
+
+    # xz "呵呵，炎儿，这么晚了，怎么还待在这上面呢？"
+    xz ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:40
+translate english ch2_s2_father_c31b14e6:
+
+    # "树枝一阵摇摆，一位中年人跃了出来，脸庞上带着笑意，凝视着自己那站在月光下的儿子。"
+    ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:42
+translate english ch2_s2_father_a495e6be:
+
+    # "中年人身着华贵的灰色衣衫，龙行虎步间颇有几分威严，脸上一对粗眉更是为其添了几分豪气，他便是萧家现任族长，同时也是萧炎的父亲，五星大斗师，萧战！"
+    ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:44
+translate english ch2_s2_father_83b45405:
+
+    # xy "父亲，您不也还没休息么？"
+    xy ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:46
+translate english ch2_s2_father_48cae52a:
+
+    # "望着中年男子，萧炎脸庞上的笑容更浓了一分。"
+    ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:48
+translate english ch2_s2_father_dd05efbf:
+
+    # xz "炎儿，还在想下午测验的事呢？"
+    xz ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:50
+translate english ch2_s2_father_99be35e7:
+
+    # "大步上前，萧战笑道。"
+    ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:52
+translate english ch2_s2_father_b0d0fc09:
+
+    # xy "呵呵，有什么好想的，意料之中而已。"
+    xy ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:54
+translate english ch2_s2_father_3388bc62:
+
+    # "萧炎少年老成的摇了摇头，笑容却是有些勉强。"
+    ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:56
+translate english ch2_s2_father_3df19a40:
+
+    # xz "唉……"
+    xz ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:58
+translate english ch2_s2_father_0b9c95ab:
+
+    # "望着萧炎那依旧有些稚嫩的清秀脸庞，萧战叹了一口气，沉默了片刻，忽然道："
+    ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:60
+translate english ch2_s2_father_d5eb54fa:
+
+    # xz "炎儿，你十五岁了吧？"
+    xz ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:62
+translate english ch2_s2_father_f2ac89e9:
+
+    # xy "嗯，父亲。"
+    xy ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:64
+translate english ch2_s2_father_6e1e3492:
+
+    # xz "再有一年，似乎……就该进行成年仪式了……"
+    xz ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:66
+translate english ch2_s2_father_bccc7b5a:
+
+    # "萧战苦笑道。"
+    ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:68
+translate english ch2_s2_father_6c73424d:
+
+    # xy "是的，父亲，还有一年！"
+    xy ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:70
+translate english ch2_s2_father_3805b741:
+
+    # "手掌微微一紧，萧炎平静的回道，成年仪式代表什么，他自然非常清楚……"
+    ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:72
+translate english ch2_s2_father_86d536a0:
+
+    # xz "对不起了，炎儿，如果在一年后你的斗之气达不到七段，那么父亲也只得忍痛把你分配到家族的产业中去，毕竟，这个家族，还并不是父亲一人说了算，那几个老家伙，可随时等着父亲犯错呢……"
+    xz ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:74
+translate english ch2_s2_father_a052fcd5:
+
+    # "望着平静的萧炎，萧战有些歉疚的叹道。"
+    ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:76
+translate english ch2_s2_father_b2081cbd:
+
+    # xy "父亲，我会努力的，一年后，我一定会到达七段斗之气的！"
+    xy ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:78
+translate english ch2_s2_father_1279328c:
+
+    # "萧炎微笑着安慰道。"
+    ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:83
+translate english ch2_s2_father_870a036a:
+
+    # "（一年，四段？呵呵，如果是以前，或许还有可能吧，不过现在……基本没半点机会……）"
+    ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:85
+translate english ch2_s2_father_de77ae0f:
+
+    # "虽然口中在安慰着父亲，不过萧炎心中却是自嘲的苦笑了起来。"
+    ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:87
+translate english ch2_s2_father_6965e68b:
+
+    # xz "不早了，回去休息吧，明天，家族中有贵客，你可别失了礼。"
+    xz ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:89
+translate english ch2_s2_father_0e9d6c34:
+
+    # "萧战轻拍了拍他的脑袋，忽然笑道。"
+    ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:91
+translate english ch2_s2_father_0180cb0f:
+
+    # xy "贵客？谁啊？"
+    xy ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:93
+translate english ch2_s2_father_22dd355f:
+
+    # "萧炎好奇的问道。"
+    ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:95
+translate english ch2_s2_father_2bf4d62b:
+
+    # xz "明天就知道了。"
+    xz ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:100
+translate english ch2_s2_father_0a16a5f4:
+
+    # "对着萧炎挤了挤眼睛，萧战大笑而去，留下无奈的萧炎。"
+    ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:102
+translate english ch2_s2_father_4dd2c3f8:
+
+    # xy "放心吧，父亲，我会尽力的！"
+    xy ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:104
+translate english ch2_s2_father_09d7324e:
+
+    # "抚摸着手指上的古朴戒指，萧炎抬头喃喃道。"
+    ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:109
+translate english ch2_s2_father_141bf349:
+
+    # "在萧炎抬头的那一刹，手指中的黑色古戒，却是忽然亮起了一抹极其微弱的诡异毫光，毫光眨眼便逝，没有引起任何人的察觉……"
+    ""
+
+# game/scripts/ch2/ch2_s2_father.rpy:113
+translate english ch2_s2_father_c300a3c8:
+
+    # "第二章 完"
+    ""
+

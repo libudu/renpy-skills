@@ -1,4 +1,4 @@
-### AI 文本转剧幕工具
+### renpy-text2script 文本转剧幕 Skill
 
 使用方法：
 
@@ -40,4 +40,4 @@
 
 注意 token 保密
 
-### AI 自动翻译工具
+### [todo] AI 自动翻译工具
